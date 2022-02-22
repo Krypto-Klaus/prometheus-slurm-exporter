@@ -1,5 +1,5 @@
 # Prometheus Slurm Exporter
-
+--> Made some changes to use the newest version of Slurm <--
 Prometheus collector and exporter for metrics extracted from the [Slurm](https://slurm.schedmd.com/overview.html) resource scheduling system.
 
 ## Exported Metrics
