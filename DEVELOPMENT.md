@@ -18,7 +18,7 @@ modules:
 
 ```bash
 # clone the source code
-git clone https://github.com/vpenso/prometheus-slurm-exporter.git
+git clone https://github.com/Krypto-Klaus/prometheus-slurm-exporter.git
 cd prometheus-slurm-exporter
 # download dependencies
 export GOPATH=$PWD/go/modules
